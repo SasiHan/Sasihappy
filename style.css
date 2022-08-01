@@ -1,0 +1,191 @@
+body {
+    background: #f9a6e7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.BG{
+    background-color: #f1f1f1;
+    padding: 40px;
+    font-size: 30px;
+    margin: 0;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+.heart{}
+.flexcontainer{
+    display: flex;
+}
+.flexcontainer > div {
+    background-color: #f1f1f1;
+    padding: 100px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+  }
+.flexcontainer1 > div {
+    background-color: #f1f1f1;
+    padding: 200px;
+    height: 200px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+  }
+  .flexcontainer2 > div {
+    background-color: #f1f1f1;
+    padding: 200px;
+    height: 210px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+  }
+.h1{
+    font-size: 30px;
+}
+.h2{
+    font-size: 20px;
+}
+.h3{
+
+    background-image: url("/img/Sasicute.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h4{
+
+    background-image: url("/img/first\ time\ to\ love\ you2.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h5{
+
+    background-image: url("/img/first\ time\ to\ love\ you1.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h6{
+
+    background-image: url("/img/jeeb2.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h7{
+
+    background-image: url("/img/jeeb1.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h8{
+
+    background-image: url("/img/mademesmile.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h9{
+
+    background-image: url("/img/Sasi.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h10{
+
+    background-image: url("/img/LoveSasi.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h11{
+
+    background-image: url("/img/Myeye.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h12{
+
+    background-image: url("/img/makealove.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h13{
+
+    background-image: url("/img/withSasi.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h14{
+
+    background-image: url("/img/timeline_25641218_214901.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h15{
+
+    background-image: url("/img/LINE_ALBUM_SasiHan💖_๒๒๐๗๒๘_26.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h16{
+
+    background-image: url("/img/LINE_ALBUM_SasiHan💖_๒๒๐๗๒๘_28.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h17{
+
+    background-image: url("/img/LINE_ALBUM_SasiHan💖_๒๒๐๗๒๘_169.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.h18{
+
+    background-image: url("/img/LINE_ALBUM_SasiHan💖_๒๒๐๗๒๘_169.jpg");
+    display: inline-block;
+    background-size: cover;
+}
+.line {
+    background-color: #f1f1f1;
+    padding: 10px;
+    margin: 0;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+.line2 {
+    font-size: 80px;
+    padding: 80px;
+    margin: 0;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+.nextbt {
+    padding: 30;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 70%;
+    left: 63%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)}
+.backbt {
+    padding: 30;
+    font-size: 25px;
+    margin: 0;
+    position: absolute;
+    top: 70%;
+     left: 37%;
+    -ms-transform: translate(-50%, -50%);
+     transform: translate(-50%, -50%)}
